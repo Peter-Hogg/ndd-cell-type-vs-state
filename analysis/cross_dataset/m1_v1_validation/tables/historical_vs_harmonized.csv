@@ -1,0 +1,7 @@
+analysis,estimand,effect
+V1 registered A2,mean gene-wise partial rho,-0.0455540831
+V1 exploratory composite,composite index rho,-0.1215008552
+M1 original partial score,composite score rho,-0.2493031738
+M1 housekeeping + composition,composite index rho,-0.1448654387
+M1 harmonized,mean gene-wise partial rho,-0.07889999575983199
+V1 harmonized,mean gene-wise partial rho,-0.047762196398340145

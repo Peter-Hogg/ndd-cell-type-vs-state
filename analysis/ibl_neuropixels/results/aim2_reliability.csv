@@ -1,0 +1,73 @@
+split,region,cls,stat,icc,n_units
+interleaved (odd vs even blocks),MOp,FS,log_rate,0.9947772190685651,237
+interleaved (odd vs even blocks),MOp,FS,lv,0.9751262339054583,236
+interleaved (odd vs even blocks),MOp,FS,burst,0.992405910121196,236
+interleaved (odd vs even blocks),MOp,RS,log_rate,0.9906720555726237,1148
+interleaved (odd vs even blocks),MOp,RS,lv,0.9782234231024691,1148
+interleaved (odd vs even blocks),MOp,RS,burst,0.9935696333401204,1148
+interleaved (odd vs even blocks),MOs,FS,log_rate,0.9894069945822723,195
+interleaved (odd vs even blocks),MOs,FS,lv,0.9585230598296947,194
+interleaved (odd vs even blocks),MOs,FS,burst,0.982157182077479,194
+interleaved (odd vs even blocks),MOs,RS,log_rate,0.9887985909985992,1059
+interleaved (odd vs even blocks),MOs,RS,lv,0.9276066822542366,1055
+interleaved (odd vs even blocks),MOs,RS,burst,0.9720050735377053,1055
+interleaved (odd vs even blocks),other_isocortex,FS,log_rate,0.9916853806047855,1719
+interleaved (odd vs even blocks),other_isocortex,FS,lv,0.9680948978865256,1715
+interleaved (odd vs even blocks),other_isocortex,FS,burst,0.9816335798103578,1715
+interleaved (odd vs even blocks),other_isocortex,RS,log_rate,0.9901913155629698,6129
+interleaved (odd vs even blocks),other_isocortex,RS,lv,0.9723189539296114,6112
+interleaved (odd vs even blocks),other_isocortex,RS,burst,0.9888056124868996,6112
+interleaved (odd vs even blocks),MOp,all,log_rate,0.9920989067616991,1385
+interleaved (odd vs even blocks),MOp,all,lv,0.9782713725823137,1384
+interleaved (odd vs even blocks),MOp,all,burst,0.9934847033575943,1384
+interleaved (odd vs even blocks),MOs,all,log_rate,0.9892999326048885,1254
+interleaved (odd vs even blocks),MOs,all,lv,0.9304914039115193,1249
+interleaved (odd vs even blocks),MOs,all,burst,0.9752430742197638,1249
+interleaved (odd vs even blocks),other_isocortex,all,log_rate,0.9908987657553238,7848
+interleaved (odd vs even blocks),other_isocortex,all,lv,0.971720017725993,7827
+interleaved (odd vs even blocks),other_isocortex,all,burst,0.9873967645885768,7827
+first vs second half,MOp,FS,log_rate,0.5569706662774746,237
+first vs second half,MOp,FS,lv,0.6925494158260486,230
+first vs second half,MOp,FS,burst,0.7445954713068869,230
+first vs second half,MOp,RS,log_rate,0.5629740635059867,1148
+first vs second half,MOp,RS,lv,0.7670005083991641,1125
+first vs second half,MOp,RS,burst,0.8844778018447575,1125
+first vs second half,MOs,FS,log_rate,0.3366955305056945,195
+first vs second half,MOs,FS,lv,0.47946506304139497,182
+first vs second half,MOs,FS,burst,0.6687276945338132,182
+first vs second half,MOs,RS,log_rate,0.4556772565746981,1059
+first vs second half,MOs,RS,lv,0.5635011305672907,973
+first vs second half,MOs,RS,burst,0.7869167338827511,973
+first vs second half,other_isocortex,FS,log_rate,0.4808768784756572,1719
+first vs second half,other_isocortex,FS,lv,0.6696296764763798,1637
+first vs second half,other_isocortex,FS,burst,0.7676151081218303,1637
+first vs second half,other_isocortex,RS,log_rate,0.5367033892085039,6129
+first vs second half,other_isocortex,RS,lv,0.7170099542187593,5896
+first vs second half,other_isocortex,RS,burst,0.8489615924540558,5896
+first vs second half,MOp,all,log_rate,0.5829666213390285,1385
+first vs second half,MOp,all,lv,0.763294576810483,1355
+first vs second half,MOp,all,burst,0.8680535217404565,1355
+first vs second half,MOs,all,log_rate,0.4500563260375058,1254
+first vs second half,MOs,all,lv,0.5551173843656122,1155
+first vs second half,MOs,all,burst,0.7693917568328363,1155
+first vs second half,other_isocortex,all,log_rate,0.5328117394114086,7848
+first vs second half,other_isocortex,all,lv,0.7103101962144774,7533
+first vs second half,other_isocortex,all,burst,0.8330447532009373,7533
+task vs passive/spontaneous,MOp,FS,log_rate,0.5327742254296204,237
+task vs passive/spontaneous,MOp,FS,lv,0.7329539510376095,230
+task vs passive/spontaneous,MOp,FS,burst,0.7554231620842337,230
+task vs passive/spontaneous,MOp,RS,log_rate,0.5526223889654729,1148
+task vs passive/spontaneous,MOp,RS,lv,0.6945940745251515,1140
+task vs passive/spontaneous,MOp,RS,burst,0.8773667342160293,1140
+task vs passive/spontaneous,MOs,FS,log_rate,0.2640239210644127,187
+task vs passive/spontaneous,MOs,FS,lv,0.3088629289547222,172
+task vs passive/spontaneous,MOs,FS,burst,0.6658632851036592,172
+task vs passive/spontaneous,MOs,RS,log_rate,0.3307942615646711,961
+task vs passive/spontaneous,MOs,RS,lv,0.4989496508905907,844
+task vs passive/spontaneous,MOs,RS,burst,0.7608404497986059,844
+task vs passive/spontaneous,other_isocortex,FS,log_rate,0.4634830347290548,1566
+task vs passive/spontaneous,other_isocortex,FS,lv,0.6780477718415497,1484
+task vs passive/spontaneous,other_isocortex,FS,burst,0.801181363867883,1484
+task vs passive/spontaneous,other_isocortex,RS,log_rate,0.5033557871268255,5633
+task vs passive/spontaneous,other_isocortex,RS,lv,0.7147549610291605,5407
+task vs passive/spontaneous,other_isocortex,RS,burst,0.8394278971791009,5407

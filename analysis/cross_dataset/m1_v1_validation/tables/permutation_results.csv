@@ -1,0 +1,4 @@
+cohort,procedure,valid,reason,p_value
+M1,animal-aware restricted permutation,false,"Sparse and heterogeneous animal-by-type overlap does not provide a generally exchangeable within-animal permutation; SAP specified cluster bootstrap instead.",
+V1,animal-aware restricted permutation,false,"Sparse and heterogeneous animal-by-MET-type overlap does not provide a generally exchangeable within-animal permutation; SAP specified cluster bootstrap instead.",
+V1 historical,cell permutation within MET type,true,"Historical frozen A2 only; not animal-aware.",0.0026

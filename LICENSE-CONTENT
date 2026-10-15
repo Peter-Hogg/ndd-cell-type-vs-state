@@ -1,0 +1,6 @@
+Figures (*.png, *.svg, *.pdf), derived result tables (*.csv, *.json) and documentation text in this
+repository are licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Derived tables are computed from third-party public datasets that remain under their own terms
+(see data/README.md). Raw data are not redistributed here.

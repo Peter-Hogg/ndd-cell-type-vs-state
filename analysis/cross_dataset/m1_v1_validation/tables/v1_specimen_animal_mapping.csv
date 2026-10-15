@@ -1,0 +1,437 @@
+cell_id,animal,type,mapping_source,mapping_status
+1000780329,998968859,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+1034747172,1033739844,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+1034751127,1033739844,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+1035142577,1033739856,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+1040463370,1039269103,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+1043785128,1042333455,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+1044635068,1042333483,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+603229579,602616884,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+603481505,602616904,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+603511210,602616904,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+604098167,603513291,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+605493156,603513261,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+637380444,626194847,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+637383404,626194847,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+637394306,626194847,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+642993450,640279155,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+642998101,640279155,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+642999662,640279155,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+642999751,640279155,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+643002356,640279155,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+644548713,642992286,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+644581427,642992296,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+644821657,643830502,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+644827374,643830502,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+644836206,643830502,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+645363692,644988807,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+645373650,644988729,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+645442972,644988742,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+645443249,644988742,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+645444644,644988820,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+645444689,644988742,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+645447975,644988742,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+645449840,644988742,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+645451268,644988820,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+645458163,644988820,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+645529985,644988864,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+645542364,644988864,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+645807027,644988854,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+645818223,644988854,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+645834778,644988854,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+645913812,644988755,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+645955689,644988844,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+647764362,645665102,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+648143167,647700813,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+651055533,650040503,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+652544407,650869055,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+652960852,652636024,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+681400617,680831288,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+681405248,680831288,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+681636493,680831288,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+681639459,680831288,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+681897314,681861681,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+681912683,681861681,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+695424422,693353632,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+695440507,693353632,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+702023186,700086567,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+716591562,716273732,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+742521771,740369766,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+742538397,740369766,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+742596680,740369766,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+742734652,740369766,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+743134436,740369880,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+796858996,794242456,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+799954058,799131067,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+813003041,809076415,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+818825921,815493627,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+820945099,815493585,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+823024502,819254246,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+823083861,819254246,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+823218199,819254252,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+823220235,819254252,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+823260493,819254252,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+823268448,819254252,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+826750185,825545215,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+826765287,825545215,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+826780116,825545215,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+826782115,825545215,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+826798072,825545215,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+826830025,825695626,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+826837153,826827020,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+826840735,826827020,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+826840774,826827020,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+826842508,826827020,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+826848163,826827020,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+826909667,826827020,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+827595695,825545226,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+827638657,825545226,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+827655895,825545226,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+827772373,825545226,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+827867891,812985816,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+827873742,812985816,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+827882326,812985816,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+827903615,812985816,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+827944175,812985816,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+827968165,812985816,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+827969748,812985816,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+828009310,812985816,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+828842878,825548786,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+828879764,825548786,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+828879817,825548786,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+828880827,825548786,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+828885535,825548786,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+828886063,825548786,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+828890584,825548786,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+828894369,825548786,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+829296573,825548796,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+829298408,825548796,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+829302487,825548796,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+829305793,825548796,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+829305835,825548796,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+829318500,825548796,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+830435948,825548739,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+833872706,829286777,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+839337787,836125613,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+841854478,839065664,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+841866603,839065664,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+841866643,839065664,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+841875079,839065664,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+841888315,839065664,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+841889888,839065664,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+845402780,842380950,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+845555925,842380950,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+847862090,844941269,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+853892758,848629958,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+865208579,859736234,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+865311811,859736234,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+866049737,859736274,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+866083691,859736274,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+867099146,864489971,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+867147516,864489971,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+867207304,864489971,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+880772136,877347747,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+880774141,877347747,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+880777888,877347747,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+880784944,877347747,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+880784997,877347747,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+880847320,877347747,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+880853797,877347747,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+880871943,877347747,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+880875384,877347747,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+882440699,877347773,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+882449590,877347773,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+882763615,877347699,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+882829701,877347802,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+895562607,889552276,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+895580896,889552276,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+895593803,889552276,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+895740352,889552276,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+895833764,889552276,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+896044181,889552013,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+896110766,889552013,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+896111494,889552013,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+896118739,889552013,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+896124663,889552013,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+896126139,889552013,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+896602326,889551920,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+896692280,889551920,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+897009330,889551957,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+898485751,894285831,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+898529637,894285831,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+898553217,894285831,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+898598276,894285831,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+898667347,894285864,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+898670093,894285831,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+898671597,894285864,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+898676236,894285864,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+898683305,894285864,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+898894447,894287222,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+898939046,894287222,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+898947776,894285891,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+898949412,894285891,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+898952816,894285891,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+898953706,894285891,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+898962389,894285891,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+898967483,894285891,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+898967534,894285891,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+899462020,894287271,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+899473601,894287271,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+899513194,894287271,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+899673509,894285917,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+899674024,894285917,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+899683133,894285917,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+899705429,894285917,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+901151599,899526480,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+901346711,899526510,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+901369771,899526510,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+901376365,899526510,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+901403196,899526510,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+901412692,899526537,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+901433799,899526537,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+901440363,899526537,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+901445982,899526537,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+902266075,899526733,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+902278249,899526733,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+902311705,899526733,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+904050612,899526804,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+904839273,899526769,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+904876570,899526769,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+906485870,902290633,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+906545713,902290633,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+906552358,902290633,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+906552550,902290633,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+906581896,902290633,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+906597203,902290633,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+907087713,902290649,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+907125584,902290649,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+907148849,902290649,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+907429679,902290737,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+908537533,902290661,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+908543551,902290661,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+908602736,902290661,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+908615401,902290661,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+908628525,902290661,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+908632324,902290661,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+908639803,902290661,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+908644527,902290661,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+908649467,902290661,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+908669318,902290661,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+908682883,902290661,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+908688687,902290661,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+908960987,902290751,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+909547798,902290673,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+909564578,902290673,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+912014913,907862529,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+912589058,911725038,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+912767246,911725038,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+913695508,911031941,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+913716620,911031941,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+914354735,911032005,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+914389834,911032005,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+914399613,911032005,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+915642833,911032017,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+915675559,911032017,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+915690724,911032017,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+915757680,911032017,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+915788289,911032017,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+916473265,911031978,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+916620597,911032029,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+916624146,911032029,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+916681208,911032080,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+916699724,911032080,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+926761275,922885270,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+926770192,922885270,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+926803573,922885270,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+926842115,922885270,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+926894447,922885270,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+926926652,922885324,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+929527191,922885296,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+929535184,922885296,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+932130950,922886337,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+937854542,933577129,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+937880943,933577129,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+939539000,933577179,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+939633886,933577179,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+940583276,933577236,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+940603431,933577236,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+940635765,933577236,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+940778879,933577264,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+940783281,933577264,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+940794414,933577264,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+944750626,938461849,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+945063428,938461849,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+945758130,938461879,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+945768358,938461879,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+945796367,938461879,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+947162577,942633557,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+947340690,942633636,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+947363567,942633636,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+947390515,942633653,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+947396671,942633636,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+947504249,942633653,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+948277237,942633574,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+948302732,942633574,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+948312017,942633574,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+948321114,942633574,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+948338231,942633574,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+948360440,942633711,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+948360577,942633574,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+948376025,942633574,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+948405847,942633711,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+950243428,942633590,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+950255593,942633590,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+950265290,942633590,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+950272456,942633590,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+950284677,942633590,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+950300190,942633590,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+950322566,942633590,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+950322658,942633590,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+951537534,942633698,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+951683418,942633617,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+951696740,942633617,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+951700309,942633617,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+951720102,942633617,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+951729703,942633617,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+952581459,948346165,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+957039728,948346201,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+957104091,948346201,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+957120771,948346201,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+960656026,948348885,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+961235271,948934207,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+961935353,959090045,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+962087670,959090045,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+963283581,959090219,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+963287636,959090219,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+963308801,959090219,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+963325924,959090219,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+965052351,959090072,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+965057941,959090072,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+965072268,959090072,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+965088550,959090137,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+965113010,961065448,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+965719385,959090151,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+965744709,959090151,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+965771919,959090151,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+965821175,961065463,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+965861424,961065463,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+970073623,964727670,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+970085557,964727670,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+970683827,967547912,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+970723621,967547912,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+970747135,967547912,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+970760401,967547912,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+970810491,967547912,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+971546167,967547936,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+971561834,967547936,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+971582405,967547936,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+971702340,967548004,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+972458284,967547955,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+972461300,967547955,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+972483962,967547955,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+972517935,967547955,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+972549205,967548033,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+972557075,967548033,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+972560174,967548033,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+972563450,967548033,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+973374623,972004945,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+973384481,972004945,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+973388326,972004945,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+973440862,972332941,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+973472798,972332978,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+973478464,972332978,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+973486704,972332978,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+973488284,972332978,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+973501446,972332941,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+973772579,973628745,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+973778435,973628745,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+973846017,973628745,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+975282560,973628758,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+975408498,973628770,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+975429194,973628770,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+975449315,973628770,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+975477551,973628770,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+975488447,973628770,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+976964380,974588699,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+978147006,974588666,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+978149378,974588666,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+978159020,974588666,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+978652336,974588712,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+978676960,974588712,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+982703343,977022299,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+982728140,977022336,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+982731503,977022336,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+982732167,977022336,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+982738610,977022336,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+982745652,977022349,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+983472272,977022362,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+983550630,977022362,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+983638695,977022362,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+984092499,977022324,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+987036222,982382907,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+987121219,982382956,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+987172681,982382956,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+989128029,982382919,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+989131618,982382919,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+989134063,982382919,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+989153463,982382968,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+989163765,982382968,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+989385812,982382878,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+989460363,982382931,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+989464819,982382981,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+989467159,982382931,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+989477803,982382931,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+989522310,982382981,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+990213121,985724130,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+990219668,985724130,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+990225226,985724130,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+990229295,985724130,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+990231113,985724130,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+990236615,985724130,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+990238702,985724130,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+990258379,985724130,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+990271469,985724130,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+990282326,985724130,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+990350059,990239875,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+990354179,990239875,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+990531168,990459595,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+990557098,990459595,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+990599962,990459604,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+990607167,990459604,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+991953962,985735976,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+991966596,985735976,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+991968323,985735976,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+991975097,985735976,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+991978907,985735976,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+991980391,985735976,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992021164,985736009,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992023765,985736009,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992195946,985736037,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992205657,985736037,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992205711,985736037,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992219017,985736037,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992220647,985736037,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992227058,985736037,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992393180,985736064,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992393250,985736064,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992393816,985736064,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992396042,985736064,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992396717,985736064,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992399256,985736064,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992400811,985736064,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992406414,985736064,L5 ET-1 Chrna6,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992412609,985736064,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992749267,985736088,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992769264,985736088,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992774965,985736088,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992782216,985736088,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+992790109,985736088,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+993993470,992385520,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+994718096,993973952,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+994882296,993973961,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+994887261,993973961,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+994889056,993973961,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+995565521,993973979,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+995574011,993973979,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+995575732,993973979,L5 ET-2,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename
+998064533,997405954,L5 ET-3,official exc_patchseq_file_manifest.csv: sub-{subject},verified_documented_filename

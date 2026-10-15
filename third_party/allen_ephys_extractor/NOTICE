@@ -1,0 +1,8 @@
+# Allen Institute electrophysiology feature extractor (third-party)
+
+`ephys_extractor.py` and `ephys_features.py` are the Allen Institute feature-extraction code used by
+Scala et al. (2021) to build the M1 Patch-seq ephys feature table. They are redistributed unchanged
+apart from three Python 2→3 fixes made in this project, under the **Allen Institute Software
+License** (2-clause BSD plus a non-commercial clause) reproduced in each file's header.
+They are **not** covered by this repository's MIT licence. Commercial use requires a licence from
+the Allen Institute (terms@alleninstitute.org).

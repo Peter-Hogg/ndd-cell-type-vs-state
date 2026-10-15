@@ -1,0 +1,7 @@
+test,outcome,n,donors,se_kind,beta,ci_lo,ci_hi,p_one_sided,predicted_sign,pass_alpha_0.025,status
+primary: Pvalb Il1rapl2 (transferred),max_n_spikes,143,102,donor-clustered,0.018788006938706393,-0.09310779968944222,0.13068381356685502,0.3710414583249807,+,False,tested
+primary: Pvalb Il1rapl2 (transferred),ap_width_ms,143,102,donor-clustered,-0.0176525095612693,-0.20674873630926302,0.17144371718672444,0.42741081594614827,-,False,tested
+secondary: Pvalb Reln (transferred),max_n_spikes,32,29,donor-clustered,-0.09878179533839626,-0.3660513086479086,0.16848771797111606,0.7655925218505062,+,False,tested
+secondary: Pvalb Reln (transferred),ap_width_ms,32,29,donor-clustered,0.057172001461373995,-0.3993112721022789,0.513655275025027,0.5969572722246899,-,False,tested
+"secondary: all V1 Pvalb, within VISp t-type",max_n_spikes,888,362,donor-clustered,-0.030282734543294013,-0.08609368474148418,0.02552821565489615,0.8562191764386025,+,False,tested
+"secondary: all V1 Pvalb, within VISp t-type",ap_width_ms,888,362,donor-clustered,-0.0222603769666617,-0.08317539762141632,0.03865464368809292,0.23691872365455152,-,False,tested

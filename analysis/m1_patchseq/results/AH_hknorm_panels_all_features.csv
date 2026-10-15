@@ -1,0 +1,291 @@
+population,panel,feature,n,n_genes,rho,p_perm,q_bh
+L5 exc,IEG_TF (activity),AP Fano factor,126,14,0.006528013822314072,0.9233333333333333,0.9652857142857143
+L5 exc,IEG_TF (activity),AP amplitude (mV),126,14,-0.0031557534029456403,0.9713333333333334,0.9713333333333334
+L5 exc,IEG_TF (activity),AP amplitude adaptation index,126,14,0.04952860720346478,0.598,0.819030303030303
+L5 exc,IEG_TF (activity),AP amplitude average adaptation index,126,14,-0.07590387916310962,0.4106666666666667,0.7914583333333333
+L5 exc,IEG_TF (activity),AP coefficient of variation,126,14,0.0109101280401444,0.932,0.9652857142857143
+L5 exc,IEG_TF (activity),AP threshold (mV),126,14,-0.061394778518338355,0.5086666666666667,0.794701754385965
+L5 exc,IEG_TF (activity),AP width (ms),126,14,-0.03236566535662678,0.7326666666666667,0.8901388888888889
+L5 exc,IEG_TF (activity),Afterdepolarization (mV),126,14,-0.034508701490958034,0.7366666666666667,0.8901388888888889
+L5 exc,IEG_TF (activity),Afterhyperpolarization (mV),126,14,-0.04315600878509424,0.6213333333333333,0.819030303030303
+L5 exc,IEG_TF (activity),Burstiness,126,14,-0.18730095829132307,0.024666666666666667,0.19816666666666669
+L5 exc,IEG_TF (activity),ISI Fano factor,126,14,0.08827425867626006,0.338,0.754
+L5 exc,IEG_TF (activity),ISI adaptation index,126,14,0.09790946791552878,0.2866666666666667,0.6927777777777778
+L5 exc,IEG_TF (activity),ISI average adaptation index,126,14,0.07391116844057448,0.43666666666666665,0.7914583333333333
+L5 exc,IEG_TF (activity),ISI coefficient of variation,126,14,0.10074965966075065,0.27,0.6927777777777778
+L5 exc,IEG_TF (activity),Input resistance (MOhm),126,14,0.13081270478369356,0.13933333333333334,0.5050833333333333
+L5 exc,IEG_TF (activity),Latency (ms),126,14,0.0976211477273551,0.278,0.6927777777777778
+L5 exc,IEG_TF (activity),Latency @ +20pA current (ms),126,14,0.07837982399595875,0.39866666666666667,0.7914583333333333
+L5 exc,IEG_TF (activity),Max number of APs,126,14,-0.058333245651649684,0.5486666666666666,0.7955666666666665
+L5 exc,IEG_TF (activity),Membrane time constant (ms),126,14,0.22978970912144492,0.012,0.19816666666666669
+L5 exc,IEG_TF (activity),Rebound (mV),126,14,0.19251048837339166,0.037333333333333336,0.21653333333333333
+L5 exc,IEG_TF (activity),Rebound number of APs,126,14,0.004936211573008755,0.9266666666666666,0.9652857142857143
+L5 exc,IEG_TF (activity),Resting membrane potential (mV),126,14,0.06461103582442058,0.4866666666666667,0.794701754385965
+L5 exc,IEG_TF (activity),Rheobase (pA),126,14,-0.16570389683762587,0.07133333333333333,0.2955238095238095
+L5 exc,IEG_TF (activity),Sag area (mV*s),126,14,0.21051578941400229,0.018,0.19816666666666669
+L5 exc,IEG_TF (activity),Sag ratio,126,14,0.20798647899332207,0.027333333333333334,0.19816666666666669
+L5 exc,IEG_TF (activity),Sag time (s),126,14,0.17724143245016077,0.058,0.2803333333333334
+L5 exc,IEG_TF (activity),Spike frequency adaptation,123,14,-0.11232588448719628,0.224,0.6927777777777778
+L5 exc,IEG_TF (activity),Upstroke-to-downstroke ratio,126,14,-0.012233260354170154,0.918,0.9652857142857143
+L5 exc,IEG_TF (activity),Wildness,126,14,0.060783846647210336,0.5206666666666667,0.794701754385965
+L5 exc,canonical_ieg (activity),AP Fano factor,126,8,-0.05240157561938382,0.584,0.8064761904761905
+L5 exc,canonical_ieg (activity),AP amplitude (mV),126,8,0.013890781144974492,0.8866666666666667,0.9183333333333333
+L5 exc,canonical_ieg (activity),AP amplitude adaptation index,126,8,0.09689925754733592,0.29933333333333334,0.6390175438596492
+L5 exc,canonical_ieg (activity),AP amplitude average adaptation index,126,8,-0.07182045804250516,0.404,0.6390175438596492
+L5 exc,canonical_ieg (activity),AP coefficient of variation,126,8,-0.05221321542193368,0.5533333333333333,0.8023333333333333
+L5 exc,canonical_ieg (activity),AP threshold (mV),126,8,-0.03705658436564932,0.688,0.8621234567901235
+L5 exc,canonical_ieg (activity),AP width (ms),126,8,-0.11813348292721858,0.20466666666666666,0.6390175438596492
+L5 exc,canonical_ieg (activity),Afterdepolarization (mV),126,8,0.022225364317837767,0.8026666666666666,0.8621234567901235
+L5 exc,canonical_ieg (activity),Afterhyperpolarization (mV),126,8,-0.07863768433561001,0.394,0.6390175438596492
+L5 exc,canonical_ieg (activity),Burstiness,126,8,-0.09443745464315904,0.296,0.6390175438596492
+L5 exc,canonical_ieg (activity),ISI Fano factor,126,8,0.08008487246570242,0.388,0.6390175438596492
+L5 exc,canonical_ieg (activity),ISI adaptation index,126,8,0.11104513606482522,0.222,0.6390175438596492
+L5 exc,canonical_ieg (activity),ISI average adaptation index,126,8,0.04686846664451609,0.6286666666666667,0.8286969696969698
+L5 exc,canonical_ieg (activity),ISI coefficient of variation,126,8,0.09631818815433277,0.29733333333333334,0.6390175438596492
+L5 exc,canonical_ieg (activity),Input resistance (MOhm),126,8,0.08001587848903709,0.37,0.6390175438596492
+L5 exc,canonical_ieg (activity),Latency (ms),126,8,0.09770335955452891,0.25266666666666665,0.6390175438596492
+L5 exc,canonical_ieg (activity),Latency @ +20pA current (ms),126,8,0.07678209744536685,0.4186666666666667,0.6390175438596492
+L5 exc,canonical_ieg (activity),Max number of APs,126,8,-0.02490061039637628,0.7966666666666666,0.8621234567901235
+L5 exc,canonical_ieg (activity),Membrane time constant (ms),126,8,0.11375907480562245,0.216,0.6390175438596492
+L5 exc,canonical_ieg (activity),Rebound (mV),126,8,0.14974563614727443,0.10333333333333333,0.6390175438596492
+L5 exc,canonical_ieg (activity),Rebound number of APs,126,8,-0.017239181973424163,0.9573333333333334,0.9573333333333334
+L5 exc,canonical_ieg (activity),Resting membrane potential (mV),126,8,-0.026126663378047567,0.796,0.8621234567901235
+L5 exc,canonical_ieg (activity),Rheobase (pA),126,8,-0.09031294204623676,0.33,0.6390175438596492
+L5 exc,canonical_ieg (activity),Sag area (mV*s),126,8,0.19578113075880937,0.024666666666666667,0.3576666666666667
+L5 exc,canonical_ieg (activity),Sag ratio,126,8,0.21942392761931398,0.012,0.34800000000000003
+L5 exc,canonical_ieg (activity),Sag time (s),126,8,0.1723371678853768,0.051333333333333335,0.49622222222222223
+L5 exc,canonical_ieg (activity),Spike frequency adaptation,123,8,-0.07529119662785433,0.414,0.6390175438596492
+L5 exc,canonical_ieg (activity),Upstroke-to-downstroke ratio,126,8,-0.10857021623246958,0.252,0.6390175438596492
+L5 exc,canonical_ieg (activity),Wildness,126,8,-0.024896009367120782,0.7726666666666666,0.8621234567901235
+L5 exc,delayed_effector (SCAFFOLD),AP Fano factor,126,5,0.05553322187707785,0.5573333333333333,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),AP amplitude (mV),126,5,-0.029367836504901303,0.7426666666666667,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),AP amplitude adaptation index,126,5,0.06531356071069146,0.462,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),AP amplitude average adaptation index,126,5,-0.06826763549393419,0.43533333333333335,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),AP coefficient of variation,126,5,0.0613533328889239,0.5386666666666666,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),AP threshold (mV),126,5,-0.03405741827050309,0.706,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),AP width (ms),126,5,-0.01917356176438564,0.8233333333333334,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),Afterdepolarization (mV),126,5,-0.07711193836170026,0.402,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),Afterhyperpolarization (mV),126,5,-0.090889979706701,0.31466666666666665,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),Burstiness,126,5,-0.09257916465401313,0.31733333333333336,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),ISI Fano factor,126,5,-0.015594699297779048,0.87,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),ISI adaptation index,126,5,0.020662980687375453,0.8373333333333334,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),ISI average adaptation index,126,5,0.053434804874341824,0.5833333333333334,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),ISI coefficient of variation,126,5,0.011403204700316742,0.9046666666666666,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),Input resistance (MOhm),126,5,0.03642442463598637,0.6766666666666666,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),Latency (ms),126,5,-0.00997893910911787,0.9226666666666666,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),Latency @ +20pA current (ms),126,5,0.01496090284912767,0.856,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),Max number of APs,126,5,0.02807629781011945,0.7493333333333333,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),Membrane time constant (ms),126,5,0.2103158661485167,0.028,0.812
+L5 exc,delayed_effector (SCAFFOLD),Rebound (mV),126,5,0.12010047943116821,0.20066666666666666,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),Rebound number of APs,126,5,0.010832477145690161,0.9593333333333334,0.9593333333333334
+L5 exc,delayed_effector (SCAFFOLD),Resting membrane potential (mV),126,5,0.0659272284142459,0.49733333333333335,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),Rheobase (pA),126,5,-0.06219174453832499,0.4846666666666667,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),Sag area (mV*s),126,5,0.11444045584380104,0.204,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),Sag ratio,126,5,0.08989540585872509,0.3273333333333333,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),Sag time (s),126,5,0.0931375394164071,0.33,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),Spike frequency adaptation,123,5,0.013585207654888867,0.9093333333333333,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),Upstroke-to-downstroke ratio,126,5,-0.05545958233377368,0.55,0.9556190476190476
+L5 exc,delayed_effector (SCAFFOLD),Wildness,126,5,0.04754181194790723,0.6133333333333333,0.9556190476190476
+L5 exc,structural_late (SCAFFOLD),AP Fano factor,126,7,-0.040639327079867484,0.694,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),AP amplitude (mV),126,7,-0.1067427947853454,0.23466666666666666,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),AP amplitude adaptation index,126,7,0.15738323441010074,0.086,0.8313333333333333
+L5 exc,structural_late (SCAFFOLD),AP amplitude average adaptation index,126,7,-0.16954141637253625,0.05,0.8313333333333333
+L5 exc,structural_late (SCAFFOLD),AP coefficient of variation,126,7,-0.035443734446899355,0.674,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),AP threshold (mV),126,7,0.04108209493945586,0.6726666666666666,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),AP width (ms),126,7,-0.04723653614605931,0.584,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),Afterdepolarization (mV),126,7,-0.06441556460889658,0.496,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),Afterhyperpolarization (mV),126,7,-0.10157357543376175,0.276,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),Burstiness,126,7,-0.05818475780817573,0.518,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),ISI Fano factor,126,7,0.021945059089851962,0.8286666666666667,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),ISI adaptation index,126,7,-0.023384483200996144,0.7866666666666666,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),ISI average adaptation index,126,7,-0.006606168450093979,0.96,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),ISI coefficient of variation,126,7,-0.010991362117690145,0.8906666666666667,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),Input resistance (MOhm),126,7,0.007720098671942513,0.908,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),Latency (ms),126,7,-0.021292250356264517,0.796,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),Latency @ +20pA current (ms),126,7,0.04776997077544427,0.5786666666666667,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),Max number of APs,126,7,-0.05638285244696863,0.5486666666666666,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),Membrane time constant (ms),126,7,0.1674213490498255,0.074,0.8313333333333333
+L5 exc,structural_late (SCAFFOLD),Rebound (mV),126,7,0.08938167711686106,0.32266666666666666,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),Rebound number of APs,126,7,-0.027341319083675774,0.6306666666666667,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),Resting membrane potential (mV),126,7,0.06392013042601556,0.5093333333333333,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),Rheobase (pA),126,7,0.06492117756329631,0.49866666666666665,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),Sag area (mV*s),126,7,-0.004445102012437444,0.974,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),Sag ratio,126,7,0.072419779230145,0.4226666666666667,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),Sag time (s),126,7,-0.016375065056699483,0.8293333333333334,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),Spike frequency adaptation,123,7,0.0505609303734449,0.6193333333333333,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),Upstroke-to-downstroke ratio,126,7,-0.10696670057756347,0.244,0.9846666666666667
+L5 exc,structural_late (SCAFFOLD),Wildness,126,7,-0.00032079356519412093,0.9846666666666667,0.9846666666666667
+L5 exc,synaptic_plasticity (mixed),AP Fano factor,126,17,0.030652909960766545,0.7666666666666667,0.934
+L5 exc,synaptic_plasticity (mixed),AP amplitude (mV),126,17,-0.05944110279970588,0.514,0.934
+L5 exc,synaptic_plasticity (mixed),AP amplitude adaptation index,126,17,0.11765463025580535,0.19266666666666668,0.7225833333333334
+L5 exc,synaptic_plasticity (mixed),AP amplitude average adaptation index,126,17,-0.13419559253331562,0.14133333333333334,0.7225833333333334
+L5 exc,synaptic_plasticity (mixed),AP coefficient of variation,126,17,0.04301783172702898,0.6693333333333333,0.934
+L5 exc,synaptic_plasticity (mixed),AP threshold (mV),126,17,-0.020138933395616225,0.8193333333333334,0.934
+L5 exc,synaptic_plasticity (mixed),AP width (ms),126,17,-0.035155657688942334,0.7146666666666667,0.934
+L5 exc,synaptic_plasticity (mixed),Afterdepolarization (mV),126,17,-0.07336642357592556,0.454,0.934
+L5 exc,synaptic_plasticity (mixed),Afterhyperpolarization (mV),126,17,-0.06566875290508073,0.47933333333333333,0.934
+L5 exc,synaptic_plasticity (mixed),Burstiness,126,17,-0.12279584977098894,0.184,0.7225833333333334
+L5 exc,synaptic_plasticity (mixed),ISI Fano factor,126,17,0.018050628900347507,0.838,0.934
+L5 exc,synaptic_plasticity (mixed),ISI adaptation index,126,17,-0.00921288355848006,0.898,0.934
+L5 exc,synaptic_plasticity (mixed),ISI average adaptation index,126,17,-0.005917379248589006,0.934,0.934
+L5 exc,synaptic_plasticity (mixed),ISI coefficient of variation,126,17,0.029086200076308293,0.762,0.934
+L5 exc,synaptic_plasticity (mixed),Input resistance (MOhm),126,17,0.05129757010297014,0.5613333333333334,0.934
+L5 exc,synaptic_plasticity (mixed),Latency (ms),126,17,0.03590071587059549,0.6973333333333334,0.934
+L5 exc,synaptic_plasticity (mixed),Latency @ +20pA current (ms),126,17,0.050252270303757694,0.5606666666666666,0.934
+L5 exc,synaptic_plasticity (mixed),Max number of APs,126,17,-0.01400081851850686,0.896,0.934
+L5 exc,synaptic_plasticity (mixed),Membrane time constant (ms),126,17,0.19107164950512423,0.044,0.7225833333333334
+L5 exc,synaptic_plasticity (mixed),Rebound (mV),126,17,0.15288780349237796,0.11,0.7225833333333334
+L5 exc,synaptic_plasticity (mixed),Rebound number of APs,126,17,0.02974598632148222,0.8986666666666666,0.934
+L5 exc,synaptic_plasticity (mixed),Resting membrane potential (mV),126,17,0.06342630776133996,0.5046666666666667,0.934
+L5 exc,synaptic_plasticity (mixed),Rheobase (pA),126,17,-0.07037204902110432,0.446,0.934
+L5 exc,synaptic_plasticity (mixed),Sag area (mV*s),126,17,0.14977981682841565,0.09133333333333334,0.7225833333333334
+L5 exc,synaptic_plasticity (mixed),Sag ratio,126,17,0.11712508582631385,0.19933333333333333,0.7225833333333334
+L5 exc,synaptic_plasticity (mixed),Sag time (s),126,17,0.1343627628381721,0.146,0.7225833333333334
+L5 exc,synaptic_plasticity (mixed),Spike frequency adaptation,123,16,-0.006370102050855125,0.9033333333333333,0.934
+L5 exc,synaptic_plasticity (mixed),Upstroke-to-downstroke ratio,126,17,-0.08265670043490382,0.37133333333333335,0.934
+L5 exc,synaptic_plasticity (mixed),Wildness,126,17,0.01243443746254374,0.898,0.934
+pyramidal pooled,IEG_TF (activity),AP Fano factor,405,13,-3.472815953685989e-05,0.9626666666666667,0.9806666666666667
+pyramidal pooled,IEG_TF (activity),AP amplitude (mV),409,13,-0.0003978232935961156,0.9806666666666667,0.9806666666666667
+pyramidal pooled,IEG_TF (activity),AP amplitude adaptation index,402,13,-0.0642021667338784,0.192,0.5061818181818182
+pyramidal pooled,IEG_TF (activity),AP amplitude average adaptation index,402,13,-0.07116887655179335,0.15266666666666667,0.4504666666666666
+pyramidal pooled,IEG_TF (activity),AP coefficient of variation,405,13,-0.01866762493380592,0.7146666666666667,0.9420606060606062
+pyramidal pooled,IEG_TF (activity),AP threshold (mV),409,13,-0.009921338908858065,0.866,0.9806666666666667
+pyramidal pooled,IEG_TF (activity),AP width (ms),409,13,0.004054273728180965,0.956,0.9806666666666667
+pyramidal pooled,IEG_TF (activity),Afterdepolarization (mV),409,13,-0.031693050376794325,0.5453333333333333,0.9086666666666667
+pyramidal pooled,IEG_TF (activity),Afterhyperpolarization (mV),409,13,0.050558890847630565,0.322,0.7781666666666667
+pyramidal pooled,IEG_TF (activity),Burstiness,409,13,-0.021862605298112656,0.6573333333333333,0.9086666666666667
+pyramidal pooled,IEG_TF (activity),ISI Fano factor,402,13,0.1495401196898068,0.005333333333333333,0.051555555555555556
+pyramidal pooled,IEG_TF (activity),ISI adaptation index,402,13,0.11031072486219934,0.03133333333333333,0.15144444444444444
+pyramidal pooled,IEG_TF (activity),ISI average adaptation index,402,13,0.19940952168618858,0.0,0.0
+pyramidal pooled,IEG_TF (activity),ISI coefficient of variation,402,13,0.12083086417914271,0.018,0.1305
+pyramidal pooled,IEG_TF (activity),Input resistance (MOhm),409,13,-0.02571381905334688,0.5706666666666667,0.9086666666666667
+pyramidal pooled,IEG_TF (activity),Latency (ms),409,13,0.02112627788349899,0.658,0.9086666666666667
+pyramidal pooled,IEG_TF (activity),Latency @ +20pA current (ms),409,13,0.07017230652559546,0.15533333333333332,0.4504666666666666
+pyramidal pooled,IEG_TF (activity),Max number of APs,409,13,-0.14570799877157925,0.0033333333333333335,0.04833333333333334
+pyramidal pooled,IEG_TF (activity),Membrane time constant (ms),409,13,0.03295548654325347,0.488,0.9086666666666667
+pyramidal pooled,IEG_TF (activity),Rebound (mV),409,13,0.032489944336088934,0.5126666666666667,0.9086666666666667
+pyramidal pooled,IEG_TF (activity),Rebound number of APs,409,13,0.008229582296321713,0.87,0.9806666666666667
+pyramidal pooled,IEG_TF (activity),Resting membrane potential (mV),409,13,0.0035734964960539655,0.918,0.9806666666666667
+pyramidal pooled,IEG_TF (activity),Rheobase (pA),409,13,-0.005966797875809385,0.94,0.9806666666666667
+pyramidal pooled,IEG_TF (activity),Sag area (mV*s),409,13,-0.028421172179682624,0.568,0.9086666666666667
+pyramidal pooled,IEG_TF (activity),Sag ratio,409,13,0.08229687132964922,0.10066666666666667,0.36491666666666667
+pyramidal pooled,IEG_TF (activity),Sag time (s),409,13,-0.025168069427886304,0.6173333333333333,0.9086666666666667
+pyramidal pooled,IEG_TF (activity),Spike frequency adaptation,387,12,-0.12083179393728431,0.026,0.1508
+pyramidal pooled,IEG_TF (activity),Upstroke-to-downstroke ratio,409,13,0.045276817225900816,0.4126666666666667,0.9086666666666667
+pyramidal pooled,IEG_TF (activity),Wildness,409,13,0.08663169693162243,0.09266666666666666,0.36491666666666667
+pyramidal pooled,canonical_ieg (activity),AP Fano factor,405,8,0.00022339651556170116,0.9793333333333333,0.9793333333333333
+pyramidal pooled,canonical_ieg (activity),AP amplitude (mV),409,8,-0.020658914764535265,0.682,0.9397380952380952
+pyramidal pooled,canonical_ieg (activity),AP amplitude adaptation index,402,8,-0.06940582474990592,0.16,0.5800000000000001
+pyramidal pooled,canonical_ieg (activity),AP amplitude average adaptation index,402,8,-0.06356859012857306,0.20333333333333334,0.6551851851851852
+pyramidal pooled,canonical_ieg (activity),AP coefficient of variation,405,8,-0.020602292622299824,0.6786666666666666,0.9397380952380952
+pyramidal pooled,canonical_ieg (activity),AP threshold (mV),409,8,-0.014351374155429584,0.8033333333333333,0.9397380952380952
+pyramidal pooled,canonical_ieg (activity),AP width (ms),409,8,-0.006572223552479459,0.8846666666666667,0.9397380952380952
+pyramidal pooled,canonical_ieg (activity),Afterdepolarization (mV),409,8,-0.013358966467522103,0.8093333333333333,0.9397380952380952
+pyramidal pooled,canonical_ieg (activity),Afterhyperpolarization (mV),409,8,0.017576929323356767,0.7193333333333334,0.9397380952380952
+pyramidal pooled,canonical_ieg (activity),Burstiness,409,8,-0.017942484478786,0.71,0.9397380952380952
+pyramidal pooled,canonical_ieg (activity),ISI Fano factor,402,8,0.13830232092580713,0.007333333333333333,0.07088888888888889
+pyramidal pooled,canonical_ieg (activity),ISI adaptation index,402,8,0.1097141771257804,0.03266666666666666,0.18946666666666664
+pyramidal pooled,canonical_ieg (activity),ISI average adaptation index,402,8,0.17229890028245617,0.0,0.0
+pyramidal pooled,canonical_ieg (activity),ISI coefficient of variation,402,8,0.11630626738728089,0.017333333333333333,0.12566666666666668
+pyramidal pooled,canonical_ieg (activity),Input resistance (MOhm),409,8,-0.03931759212645475,0.38266666666666665,0.9247777777777778
+pyramidal pooled,canonical_ieg (activity),Latency (ms),409,8,-0.010622099806166704,0.848,0.9397380952380952
+pyramidal pooled,canonical_ieg (activity),Latency @ +20pA current (ms),409,8,0.013470355838485755,0.8033333333333333,0.9397380952380952
+pyramidal pooled,canonical_ieg (activity),Max number of APs,409,8,-0.12767425335409355,0.007333333333333333,0.07088888888888889
+pyramidal pooled,canonical_ieg (activity),Membrane time constant (ms),409,8,0.011925970400370196,0.7793333333333333,0.9397380952380952
+pyramidal pooled,canonical_ieg (activity),Rebound (mV),409,8,0.04479709253811851,0.362,0.9247777777777778
+pyramidal pooled,canonical_ieg (activity),Rebound number of APs,409,8,0.014904377863750927,0.7673333333333333,0.9397380952380952
+pyramidal pooled,canonical_ieg (activity),Resting membrane potential (mV),409,8,0.008317659914198167,0.8566666666666667,0.9397380952380952
+pyramidal pooled,canonical_ieg (activity),Rheobase (pA),409,8,0.024007708386482668,0.6053333333333333,0.9397380952380952
+pyramidal pooled,canonical_ieg (activity),Sag area (mV*s),409,8,-0.017276038215127902,0.7266666666666667,0.9397380952380952
+pyramidal pooled,canonical_ieg (activity),Sag ratio,409,8,0.09321285691155823,0.06266666666666666,0.2596190476190476
+pyramidal pooled,canonical_ieg (activity),Sag time (s),409,8,-0.013103780127463074,0.794,0.9397380952380952
+pyramidal pooled,canonical_ieg (activity),Spike frequency adaptation,387,8,-0.10332910473373214,0.052,0.25133333333333335
+pyramidal pooled,canonical_ieg (activity),Upstroke-to-downstroke ratio,409,8,-0.005914995556651776,0.9073333333333333,0.9397380952380952
+pyramidal pooled,canonical_ieg (activity),Wildness,409,8,0.04643454177900396,0.34,0.9247777777777778
+pyramidal pooled,delayed_effector (SCAFFOLD),AP Fano factor,405,6,-0.019181989337005913,0.6846666666666666,0.8238974358974359
+pyramidal pooled,delayed_effector (SCAFFOLD),AP amplitude (mV),409,6,-0.08601127635521014,0.08,0.746969696969697
+pyramidal pooled,delayed_effector (SCAFFOLD),AP amplitude adaptation index,402,6,-0.01623751707997835,0.7386666666666667,0.8238974358974359
+pyramidal pooled,delayed_effector (SCAFFOLD),AP amplitude average adaptation index,402,6,-0.06121826240930767,0.224,0.746969696969697
+pyramidal pooled,delayed_effector (SCAFFOLD),AP coefficient of variation,405,6,-0.018658868542404627,0.714,0.8238974358974359
+pyramidal pooled,delayed_effector (SCAFFOLD),AP threshold (mV),409,6,0.02311671550011691,0.628,0.8238974358974359
+pyramidal pooled,delayed_effector (SCAFFOLD),AP width (ms),409,6,-0.0550632013998486,0.2833333333333333,0.746969696969697
+pyramidal pooled,delayed_effector (SCAFFOLD),Afterdepolarization (mV),409,6,-0.006407266927184684,0.91,0.9626666666666667
+pyramidal pooled,delayed_effector (SCAFFOLD),Afterhyperpolarization (mV),409,6,0.02048552856067098,0.688,0.8238974358974359
+pyramidal pooled,delayed_effector (SCAFFOLD),Burstiness,409,6,0.08424069738514695,0.09733333333333333,0.746969696969697
+pyramidal pooled,delayed_effector (SCAFFOLD),ISI Fano factor,402,6,0.04328723166389659,0.408,0.8238974358974359
+pyramidal pooled,delayed_effector (SCAFFOLD),ISI adaptation index,402,6,0.06829508511287727,0.15066666666666667,0.746969696969697
+pyramidal pooled,delayed_effector (SCAFFOLD),ISI average adaptation index,402,6,0.12311383661708669,0.01,0.29000000000000004
+pyramidal pooled,delayed_effector (SCAFFOLD),ISI coefficient of variation,402,6,0.059014114224894526,0.2653333333333333,0.746969696969697
+pyramidal pooled,delayed_effector (SCAFFOLD),Input resistance (MOhm),409,6,-0.027918551585611105,0.5433333333333333,0.8238974358974359
+pyramidal pooled,delayed_effector (SCAFFOLD),Latency (ms),409,6,-0.03700851864987377,0.49,0.8238974358974359
+pyramidal pooled,delayed_effector (SCAFFOLD),Latency @ +20pA current (ms),409,6,0.0020610151775097797,0.9626666666666667,0.9626666666666667
+pyramidal pooled,delayed_effector (SCAFFOLD),Max number of APs,409,6,-0.02636201130192973,0.592,0.8238974358974359
+pyramidal pooled,delayed_effector (SCAFFOLD),Membrane time constant (ms),409,6,0.024157643837389168,0.63,0.8238974358974359
+pyramidal pooled,delayed_effector (SCAFFOLD),Rebound (mV),409,6,-0.016958404033740812,0.7353333333333333,0.8238974358974359
+pyramidal pooled,delayed_effector (SCAFFOLD),Rebound number of APs,409,6,0.0019925827723209217,0.9553333333333334,0.9626666666666667
+pyramidal pooled,delayed_effector (SCAFFOLD),Resting membrane potential (mV),409,6,0.018274920589387705,0.7226666666666667,0.8238974358974359
+pyramidal pooled,delayed_effector (SCAFFOLD),Rheobase (pA),409,6,0.05479717286761957,0.2753333333333333,0.746969696969697
+pyramidal pooled,delayed_effector (SCAFFOLD),Sag area (mV*s),409,6,-0.06547285888509964,0.20133333333333334,0.746969696969697
+pyramidal pooled,delayed_effector (SCAFFOLD),Sag ratio,409,6,0.0163303202105788,0.736,0.8238974358974359
+pyramidal pooled,delayed_effector (SCAFFOLD),Sag time (s),409,6,-0.06396817272208803,0.206,0.746969696969697
+pyramidal pooled,delayed_effector (SCAFFOLD),Spike frequency adaptation,387,6,-0.03412307958267659,0.5153333333333333,0.8238974358974359
+pyramidal pooled,delayed_effector (SCAFFOLD),Upstroke-to-downstroke ratio,409,6,-0.07263592691888085,0.14333333333333334,0.746969696969697
+pyramidal pooled,delayed_effector (SCAFFOLD),Wildness,409,6,0.039917034758378545,0.44533333333333336,0.8238974358974359
+pyramidal pooled,structural_late (SCAFFOLD),AP Fano factor,405,5,0.031155720991062716,0.5633333333333334,0.8976190476190476
+pyramidal pooled,structural_late (SCAFFOLD),AP amplitude (mV),409,5,-0.059318811657334714,0.23333333333333334,0.7954285714285714
+pyramidal pooled,structural_late (SCAFFOLD),AP amplitude adaptation index,402,5,0.01364272673358376,0.7873333333333333,0.8976190476190476
+pyramidal pooled,structural_late (SCAFFOLD),AP amplitude average adaptation index,402,5,-0.0455304800913436,0.37933333333333336,0.7954285714285714
+pyramidal pooled,structural_late (SCAFFOLD),AP coefficient of variation,405,5,0.035352350012480785,0.478,0.866375
+pyramidal pooled,structural_late (SCAFFOLD),AP threshold (mV),409,5,0.012023693296977918,0.806,0.8976190476190476
+pyramidal pooled,structural_late (SCAFFOLD),AP width (ms),409,5,-0.008952330554718854,0.8446666666666667,0.8976190476190476
+pyramidal pooled,structural_late (SCAFFOLD),Afterdepolarization (mV),409,5,-0.057423788927991624,0.2673333333333333,0.7954285714285714
+pyramidal pooled,structural_late (SCAFFOLD),Afterhyperpolarization (mV),409,5,0.01573408847398825,0.7553333333333333,0.8976190476190476
+pyramidal pooled,structural_late (SCAFFOLD),Burstiness,409,5,0.04477966144102051,0.376,0.7954285714285714
+pyramidal pooled,structural_late (SCAFFOLD),ISI Fano factor,402,5,0.06614758266719606,0.208,0.7954285714285714
+pyramidal pooled,structural_late (SCAFFOLD),ISI adaptation index,402,5,0.044505800109497874,0.344,0.7954285714285714
+pyramidal pooled,structural_late (SCAFFOLD),ISI average adaptation index,402,5,0.09851715564373185,0.04666666666666667,0.6766666666666667
+pyramidal pooled,structural_late (SCAFFOLD),ISI coefficient of variation,402,5,0.07206074389907965,0.14933333333333335,0.7954285714285714
+pyramidal pooled,structural_late (SCAFFOLD),Input resistance (MOhm),409,5,0.008815582414242294,0.8606666666666667,0.8976190476190476
+pyramidal pooled,structural_late (SCAFFOLD),Latency (ms),409,5,-0.010221781700664194,0.8666666666666667,0.8976190476190476
+pyramidal pooled,structural_late (SCAFFOLD),Latency @ +20pA current (ms),409,5,0.015577025136418904,0.7246666666666667,0.8976190476190476
+pyramidal pooled,structural_late (SCAFFOLD),Max number of APs,409,5,-0.045757958884572646,0.35333333333333333,0.7954285714285714
+pyramidal pooled,structural_late (SCAFFOLD),Membrane time constant (ms),409,5,0.10972303433774476,0.028,0.6766666666666667
+pyramidal pooled,structural_late (SCAFFOLD),Rebound (mV),409,5,0.045069105439912695,0.384,0.7954285714285714
+pyramidal pooled,structural_late (SCAFFOLD),Rebound number of APs,409,5,0.038168702270723796,0.43066666666666664,0.8326222222222222
+pyramidal pooled,structural_late (SCAFFOLD),Resting membrane potential (mV),409,5,0.04748999810407226,0.376,0.7954285714285714
+pyramidal pooled,structural_late (SCAFFOLD),Rheobase (pA),409,5,-0.0007269637313588382,0.9926666666666667,0.9926666666666667
+pyramidal pooled,structural_late (SCAFFOLD),Sag area (mV*s),409,5,0.009432729461453708,0.8173333333333334,0.8976190476190476
+pyramidal pooled,structural_late (SCAFFOLD),Sag ratio,409,5,0.08716869568922957,0.086,0.7954285714285714
+pyramidal pooled,structural_late (SCAFFOLD),Sag time (s),409,5,0.013452119244409698,0.7793333333333333,0.8976190476190476
+pyramidal pooled,structural_late (SCAFFOLD),Spike frequency adaptation,387,5,-0.07352860669578319,0.16733333333333333,0.7954285714285714
+pyramidal pooled,structural_late (SCAFFOLD),Upstroke-to-downstroke ratio,409,5,-0.016195239132933508,0.7573333333333333,0.8976190476190476
+pyramidal pooled,structural_late (SCAFFOLD),Wildness,409,5,-0.012050072868625089,0.8066666666666666,0.8976190476190476
+pyramidal pooled,synaptic_plasticity (mixed),AP Fano factor,405,17,-0.0020926058045017165,0.956,0.9873333333333333
+pyramidal pooled,synaptic_plasticity (mixed),AP amplitude (mV),409,17,-0.0848076393117111,0.09333333333333334,0.6911666666666667
+pyramidal pooled,synaptic_plasticity (mixed),AP amplitude adaptation index,402,17,0.014713047223780813,0.7573333333333333,0.9873333333333333
+pyramidal pooled,synaptic_plasticity (mixed),AP amplitude average adaptation index,402,17,-0.08775205853425143,0.08333333333333333,0.6911666666666667
+pyramidal pooled,synaptic_plasticity (mixed),AP coefficient of variation,405,17,-0.003585497618351563,0.932,0.9873333333333333
+pyramidal pooled,synaptic_plasticity (mixed),AP threshold (mV),409,17,0.02043596471497037,0.6706666666666666,0.9873333333333333
+pyramidal pooled,synaptic_plasticity (mixed),AP width (ms),409,17,-0.027900318258857703,0.568,0.9873333333333333
+pyramidal pooled,synaptic_plasticity (mixed),Afterdepolarization (mV),409,17,-0.010362539519062854,0.868,0.9873333333333333
+pyramidal pooled,synaptic_plasticity (mixed),Afterhyperpolarization (mV),409,17,0.0013702356062821547,0.9766666666666667,0.9873333333333333
+pyramidal pooled,synaptic_plasticity (mixed),Burstiness,409,17,0.015793467152434168,0.7413333333333333,0.9873333333333333
+pyramidal pooled,synaptic_plasticity (mixed),ISI Fano factor,402,17,0.07086871616074959,0.18133333333333335,0.6911666666666667
+pyramidal pooled,synaptic_plasticity (mixed),ISI adaptation index,402,17,0.05255974825362659,0.2633333333333333,0.7604444444444444
+pyramidal pooled,synaptic_plasticity (mixed),ISI average adaptation index,402,17,0.12449121733592769,0.008666666666666666,0.25133333333333335
+pyramidal pooled,synaptic_plasticity (mixed),ISI coefficient of variation,402,17,0.07931149536331517,0.10466666666666667,0.6911666666666667
+pyramidal pooled,synaptic_plasticity (mixed),Input resistance (MOhm),409,17,-0.008754770767032924,0.8386666666666667,0.9873333333333333
+pyramidal pooled,synaptic_plasticity (mixed),Latency (ms),409,17,-0.0026465949156769,0.9873333333333333,0.9873333333333333
+pyramidal pooled,synaptic_plasticity (mixed),Latency @ +20pA current (ms),409,17,0.02742847637707759,0.578,0.9873333333333333
+pyramidal pooled,synaptic_plasticity (mixed),Max number of APs,409,17,-0.06737442317512522,0.17266666666666666,0.6911666666666667
+pyramidal pooled,synaptic_plasticity (mixed),Membrane time constant (ms),409,17,0.0689655225907984,0.16666666666666666,0.6911666666666667
+pyramidal pooled,synaptic_plasticity (mixed),Rebound (mV),409,17,0.023776689913098434,0.63,0.9873333333333333
+pyramidal pooled,synaptic_plasticity (mixed),Rebound number of APs,409,17,0.009108446078418542,0.798,0.9873333333333333
+pyramidal pooled,synaptic_plasticity (mixed),Resting membrane potential (mV),409,17,0.02168916375021281,0.6673333333333333,0.9873333333333333
+pyramidal pooled,synaptic_plasticity (mixed),Rheobase (pA),409,17,0.01730804204811448,0.718,0.9873333333333333
+pyramidal pooled,synaptic_plasticity (mixed),Sag area (mV*s),409,17,-0.03737638717763195,0.464,0.9873333333333333
+pyramidal pooled,synaptic_plasticity (mixed),Sag ratio,409,17,0.05031267692035122,0.308,0.7604444444444444
+pyramidal pooled,synaptic_plasticity (mixed),Sag time (s),409,17,-0.033024043356699964,0.5113333333333333,0.9873333333333333
+pyramidal pooled,synaptic_plasticity (mixed),Spike frequency adaptation,387,17,-0.06851508754978614,0.19066666666666668,0.6911666666666667
+pyramidal pooled,synaptic_plasticity (mixed),Upstroke-to-downstroke ratio,409,17,-0.053687924407597155,0.288,0.7604444444444444
+pyramidal pooled,synaptic_plasticity (mixed),Wildness,409,17,0.0524436019639096,0.31466666666666665,0.7604444444444444

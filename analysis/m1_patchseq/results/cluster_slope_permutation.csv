@@ -1,0 +1,2 @@
+n_tests,observed_hits_p05,expected_hits,null_mean_hits,null_q95_hits,p_perm_hits,observed_min_p,p_perm_min_p,min_q_all
+333,28,16.650000000000002,17.399,25.0,0.01759648070385923,1.5411387320200464e-07,0.05138972205558888,5.131991977626755e-05

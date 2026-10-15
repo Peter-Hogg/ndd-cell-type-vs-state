@@ -1,0 +1,5 @@
+cohort,family,cells,animals,genes,effect,ci_lo,ci_hi,descriptive_bootstrap_sign_probability,status
+m1,ion_channel_or_auxiliary,126,54,113,-0.006589931256252728,-0.05167599731135797,0.03980547879190971,0.748,exploratory_fixed_family
+m1,neurotransmitter_receptor,126,54,36,0.013184596961898505,-0.04538238927846827,0.07220092226245338,0.67,exploratory_fixed_family
+v1,ion_channel_or_auxiliary,436,163,113,0.00325183426736392,-0.011063914290829672,0.016430816399143986,0.592,exploratory_fixed_family
+v1,neurotransmitter_receptor,436,163,36,0.009930310266077878,-0.012218587184351003,0.03259437141421392,0.324,exploratory_fixed_family

@@ -1,0 +1,9 @@
+cohort,panel,declared_genes,retained_genes,effect,ci_lo,ci_hi,descriptive_bootstrap_sign_probability,matched_random_set_two_sided_tail_fraction,status
+m1,ca_camp_adaptors,14,13,-0.04613501068986458,-0.10058052000961293,0.01329964943351022,0.114,0.1742,post_validation_exploratory
+v1,ca_camp_adaptors,14,13,0.03304678565321132,0.00034480399339095676,0.06496406926367308,0.046,0.0502,post_validation_exploratory
+m1,structural_late,12,10,0.04923649897902722,-0.0509216173647301,0.13388514976677512,0.42,0.166,post_validation_exploratory
+v1,structural_late,12,10,-0.029227773328776973,-0.06612910358157537,0.01003960683001237,0.126,0.1102,post_validation_exploratory
+m1,synaptic_plasticity,29,25,-0.054856897438794065,-0.10519825877758004,0.00414299874446155,0.068,0.0578,post_validation_exploratory
+v1,synaptic_plasticity,29,25,-0.008945256399749897,-0.03112878164274359,0.014962974706522256,0.432,0.5142,post_validation_exploratory
+m1,combined_scaffolding_camk,26,23,-0.004669136920781185,-0.05571236994308385,0.03594092462893661,0.636,0.8806,post_validation_exploratory
+v1,combined_scaffolding_camk,26,23,0.0059708904436511865,-0.020726324297402975,0.02940634020258303,0.606,0.643,post_validation_exploratory

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Disentangling cell type from activity state in mouse cortex: analysis code and results"
+message: "If you use this code or these results, please cite it as below."
+type: software
+authors:
+  - family-names: Hogg
+    given-names: Peter
+    affiliation: "Harvard University"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/Peter-Hogg/ndd-cell-type-vs-state"
+keywords: [Patch-seq, immediate-early genes, cell types, electrophysiology, motor cortex, transcriptomics]
+abstract: >-
+  Secondary analysis of public Patch-seq, single-cell atlas and Neuropixels data testing whether
+  activity-dependent (immediate-early gene) transcription accounts for diversity within cortical
+  transcriptomic cell types.

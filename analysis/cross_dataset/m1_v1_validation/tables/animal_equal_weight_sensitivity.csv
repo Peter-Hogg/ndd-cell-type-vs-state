@@ -1,0 +1,3 @@
+cohort,cells,animals,effect,ci_lo,ci_hi,bootstrap_sign_p,estimand
+m1,126,54,-0.15432379572747051,-0.23276305893599322,-0.02666985809446847,0.018,correlation across animal-mean adjusted residuals
+v1,436,163,-0.03681058587191389,-0.08842368521979928,0.018331982007873067,0.214,correlation across animal-mean adjusted residuals
