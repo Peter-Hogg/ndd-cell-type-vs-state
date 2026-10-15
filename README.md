@@ -35,6 +35,7 @@ analysis/
   macaque_patchseq/    Macaque Patch-seq (Dembrow et al.): cross-species test, acute vs cultured preparation
   ibl_neuropixels/     IBL Brain-Wide Map: in vivo unit firing statistics, trait vs state
   cross_dataset/       Analyses that combine datasets, including
+    preregistrations/    Frozen confirmatory-analysis plans and integrity records
     m1_v1_validation/    harmonised, animal-aware M1 -> V1 activity-response set test
     ephys_spread/        ephys-linked genes vs within-cluster RNA spread
   common/              Shared paths, loaders, gene sets and plotting styles
@@ -193,10 +194,16 @@ tables as released by the authors. Results tables in this repository are summary
 redistributed.
 
 ## Licence and citation
-Code: MIT ([`LICENSE`](LICENSE)). Figures, tables and text: CC BY 4.0 ([`LICENSE-CONTENT`](LICENSE-CONTENT)).
-`third_party/` keeps the Allen Institute Software License. Cite via [`CITATION.cff`](CITATION.cff).
+Original code in this repository—including the analysis scripts, data-fetching code, `run_all.sh`, and the two
+worked notebooks—is MIT-licensed ([`LICENSE`](LICENSE)). Figures, tables and documentation text are CC BY 4.0
+([`LICENSE-CONTENT`](LICENSE-CONTENT)). The bundled Allen electrophysiology extractor in
+[`third_party/allen_ephys_extractor/`](third_party/allen_ephys_extractor/) is not covered by the MIT licence: it
+retains the separate Allen Institute Software License in its [`NOTICE`](third_party/allen_ephys_extractor/NOTICE),
+including its non-commercial-use restriction. Cite this repository via [`CITATION.cff`](CITATION.cff).
 
 ## Acknowledgement
-Supported by the Kavli Foundation NeuroData Discovery Award (LS-2025-GR-0076-3185), awarded through the
-NeuroDataReHack workshop. This work relies on data openly shared by the Allen Institute, the Berens and Tolias
+This work is supported by The Kavli Foundation.
+
+Support was provided through the Kavli Foundation NeuroData Discovery Award (LS-2025-GR-0076-3185), awarded through
+the NeuroDataReHack workshop. This work relies on data openly shared by the Allen Institute, the Berens and Tolias
 laboratories, the International Brain Laboratory and the DANDI Archive.

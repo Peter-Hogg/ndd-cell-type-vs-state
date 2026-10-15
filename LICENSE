@@ -20,6 +20,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Scope: this licence covers the code in analysis/, reanalysis/scripts/, manuscript/scripts/,
-data/ and notebooks/. Figures, tables and text are licensed separately (LICENSE-CONTENT).
-Code in third_party/ keeps its own licence (see third_party/allen_ephys_extractor/README.md).
+Scope: this licence covers original code in analysis/ and data/, run_all.sh, and the worked
+example notebooks in analysis/m1_patchseq/notebooks/. Figures, tables and documentation text
+are licensed separately under LICENSE-CONTENT.
+
+This licence does not cover third-party code. In particular, third_party/allen_ephys_extractor/
+retains the separate Allen Institute Software License in
+third_party/allen_ephys_extractor/NOTICE, including its non-commercial-use restriction.
